@@ -6,7 +6,7 @@ package atleta;
 
 /**
  *
- * @author guhen
+ * 
  */
 public class Atleta 
 {
