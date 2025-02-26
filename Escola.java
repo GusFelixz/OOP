@@ -6,7 +6,7 @@ package escola;
 
 /**
  *
- * @author 0040482321008
+ * 
  */
 public class Escola {
 
