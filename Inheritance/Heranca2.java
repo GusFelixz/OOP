@@ -7,7 +7,7 @@ package atleta;
 
 /**
  *
- * @author guhen
+ * 
  */
 public class Heranca2 {
     
