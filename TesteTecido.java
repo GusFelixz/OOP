@@ -6,7 +6,7 @@ package testetecido;
 
 /**
  *
- * @author welis
+ * 
  */
 public class TesteTecido {
 
