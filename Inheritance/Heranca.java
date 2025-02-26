@@ -6,7 +6,7 @@ package heranca;
 
 /**
  *
- * @author guhen
+ * 
  */
 public class Heranca {
 
