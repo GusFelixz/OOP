@@ -49,7 +49,7 @@ public class ContaPoupanca extends ContaBase {
     public void atualizar(double taxa){
         super.atualizar(taxa);
         if(this.saldo > 0){
-            this.rendimento = this.saldo*taxa;
+            this.rendimento = this.rendimento + (this.saldo*taxa);
             System.out.println("Rendimento atualizado!");
         }else{
             System.out.println("Conta vazia, sem rendimento");
